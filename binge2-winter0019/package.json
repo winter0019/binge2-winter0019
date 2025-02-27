@@ -2,7 +2,7 @@
   "name": "binge-winter0019",
   "version": "1.0.0",
   "scripts": {
-    "build": "npm run build",
+    "build": "echo 'No build step required'",
     "predeploy": "npm run build",
     "start": "serve public"
   },
